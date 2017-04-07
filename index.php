@@ -10,6 +10,7 @@
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
  * @package i_Theme
+ * @author Allan
  */
 
 get_header(); ?>
